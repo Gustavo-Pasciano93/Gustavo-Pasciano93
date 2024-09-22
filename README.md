@@ -14,7 +14,7 @@ Recentemente, decidi seguir minha paixão por tecnologia e estou em transição 
   - Expertise em análise de mercado, estratégia de vendas e relacionamento com clientes.
 
 - **Educação em Tecnologia:**
-  - Ao invés de ingressar em uma nova faculdade, decidi fazer cursos e bootcamps focados no meu objetivo de trabalhar como Engenheiro de Dados, no momento programo em Python, tenho conhecimento em SQL e Cloud.
+  - Ao invés de ingressar em uma nova faculdade, decidi fazer cursos e bootcamps focados no meu objetivo de trabalhar como Engenheiro de Dados, no momento tenho conhecimento avançado em Python, SQL e Pipelines(ETL). Além disso, estou desenvolvendo meu conhecimento em Cloud (AWS e Azure), Apache Spark  e Datalake.
   - Acesse meu linkedin para visualizar todos os meus certificados ;)
 
 
@@ -25,7 +25,7 @@ Recentemente, decidi seguir minha paixão por tecnologia e estou em transição 
 - **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn.
 - **API:** Fast API
 - **Framework:** Flask
-- **Bancos de Dados:** MySQL, PostgreSQL.
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLite.
 - **Visualização de Dados:** Matplotlib e Seaborn.
 - **Cloud:** AWS, Azure e Google Cloud
 - **Outras:** Git, Jupyter Notebook, Linux.
