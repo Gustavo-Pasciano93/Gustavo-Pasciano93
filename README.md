@@ -23,11 +23,11 @@ Recentemente, decidi seguir minha paixão por tecnologia e estou em transição 
 
 - **Linguagens de Programação:** Python, SQL.
 - **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn.
-- **API:** Fast API
+- **API:** Fast API, Requests
 - **Framework:** Flask
-- **Bancos de Dados:** MySQL, PostgreSQL, SQLite.
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB.
 - **Visualização de Dados:** Matplotlib e Seaborn.
-- **Cloud:** AWS, Azure e Google Cloud
+- **Cloud:** AWS, Azure, Google Cloud e Oracle
 - **Outras:** Git, Jupyter Notebook, Linux.
 
 ## Contato
