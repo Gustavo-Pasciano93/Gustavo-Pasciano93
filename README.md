@@ -36,7 +36,7 @@ Sou um profissional com mais de 8 anos de mercado sendo 5 de experiência em ven
 
 - **Fique a vontade para explorar meu github e conhecer alguns projetos que trabalhei e estou trabalhando :)**
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
+
 
 ---
 
