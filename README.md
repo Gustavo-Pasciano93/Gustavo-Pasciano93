@@ -4,8 +4,7 @@ Seja bem-vindo ao meu perfil no GitHub!
 
 ## Sobre Mim
 
-Sou um profissional com mais de 5 anos de experiência em vendas, tendo trabalhado em uma Big Four. Ao longo da minha carreira, desenvolvi habilidades sólidas em análise de dados, resolução de problemas e comunicação eficaz. 
-Recentemente, decidi seguir minha paixão por tecnologia e estou em transição para a área de Engenharia de Dados.
+Sou um profissional com mais de 8 anos de mercado sendo 5 de experiência em vendas, com um forte histórico em análise de dados, resolução de problemas e comunicação eficaz. Ao longo da minha jornada, desenvolvi um interesse crescente por tecnologia e estou constantemente aprimorando minhas habilidades na área de engenharia de dados.
 
 ## Minha Jornada
 
@@ -14,7 +13,7 @@ Recentemente, decidi seguir minha paixão por tecnologia e estou em transição 
   - Expertise em análise de mercado, estratégia de vendas e relacionamento com clientes.
 
 - **Educação em Tecnologia:**
-  - Ao invés de ingressar em uma nova faculdade, decidi fazer cursos e bootcamps focados no meu objetivo de trabalhar como Engenheiro de Dados, no momento tenho conhecimento avançado em Python, SQL e Pipelines(ETL). Além disso, estou desenvolvendo meu conhecimento em Cloud (AWS e Azure), Apache Spark  e Datalake.
+  - Investi em cursos e bootcamps focados em engenharia de dados para expandir meus conhecimentos práticos. Atualmente, tenho experiência avançada em Python, SQL e ETL pipelines. Além disso, continuo a aprofundar meu conhecimento em cloud (AWS, Azure), Apache Spark e Data Lakes.
   - Acesse meu linkedin para visualizar todos os meus certificados ;)
 
 
