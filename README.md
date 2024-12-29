@@ -21,17 +21,17 @@ Sou um profissional com mais de 8 anos de mercado sendo 5 de experiência em ven
 ## Habilidades
 
 - **Linguagens de Programação:** Python, SQL.
-- **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn.
+- **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn, Apache Spark.
 - **API:** Fast API, Requests
 - **Framework:** Flask
 - **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB.
 - **Visualização de Dados:** Matplotlib e Seaborn.
 - **Cloud:** AWS, Azure, Google Cloud e Oracle
-- **Outras:** Git, Jupyter Notebook, Linux.
+- **Outras:** Git, Jupyter Notebook, Linux, Apache Airflow.
 
 ## Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/gustavo-henrique-pasciano-463b31193/
+- **LinkedIn:** https://www.linkedin.com/in/gustavo-pasciano/
 - **Email:** gustavohqpasciano@gmail.com
 
 - **Fique a vontade para explorar meu github e conhecer alguns projetos que trabalhei e estou trabalhando :)**
