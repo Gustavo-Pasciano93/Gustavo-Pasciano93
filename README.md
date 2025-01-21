@@ -21,7 +21,7 @@ Sou um profissional com mais de 8 anos de mercado sendo 5 de experiência em ven
 ## Habilidades
 
 - **Linguagens de Programação:** Python, SQL.
-- **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn, Apache Spark.
+- **Ferramentas de Dados:**  Pandas, NumPy, scikit-learn, Apache Spark, DataBricks.
 - **API:** Fast API, Requests
 - **Framework:** Flask
 - **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB.
